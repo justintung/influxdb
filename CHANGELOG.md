@@ -3,6 +3,7 @@
 ### Bugfixes
 
 - [#2908](https://github.com/influxdb/influxdb/issues/2908): Field mismatch error messages need to be updated
+- [#2935](https://github.com/influxdb/influxdb/issues/2935): Hook CPU and memory profiling back up.
 
 ## v0.9.0 [2015-06-11]
 
